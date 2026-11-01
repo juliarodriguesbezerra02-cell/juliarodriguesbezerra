@@ -1,10 +1,8 @@
 # Júlia Rodrigues Bezerra
 
  Estudante de Ciência da Computação.
- Tenho interesse em programação, desenvolvimento de software e tecnologia.
-
-Atualmente estou desenvolvendo meus conhecimentos em lógica de programação, linguagem C, Git, GitHub e desenvolvimento de projetos acadêmicos.
-
+ 
+ Tenho interesse em programação, desenvolvimento de software e tecnologia. Atualmente estou desenvolvendo meus conhecimentos em lógica de programação, linguagem C, Git, GitHub e desenvolvimento de projetos acadêmicos.
 Meu objetivo é aprimorar minhas habilidades técnicas, desenvolver projetos práticos e construir minha trajetória profissional na área de tecnologia.
 
 ## Tecnologias e ferramentas
@@ -26,4 +24,3 @@ Meu objetivo é aprimorar minhas habilidades técnicas, desenvolver projetos pr�
 
 ---
 
-⭐ Obrigada por visitar meu perfil!
