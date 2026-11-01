@@ -1,28 +1,29 @@
-# juliarodriguesbezerra02-c-lula
 # Júlia Rodrigues Bezerra
 
- Estudante de Ciência da Computação, com interesse em desenvolvimento de software e resolução de problemas por meio da tecnologia.
+ Estudante de Ciência da Computação.
+ Tenho interesse em programação, desenvolvimento de software e tecnologia.
 
- Estou desenvolvendo minhas habilidades em programação, lógica computacional e ferramentas de desenvolvimento, aplicando meus conhecimentos em projetos acadêmicos e práticos.
+Atualmente estou desenvolvendo meus conhecimentos em lógica de programação, linguagem C, Git, GitHub e desenvolvimento de projetos acadêmicos.
 
- Busco aprimorar continuamente minhas competências técnicas, colaborar em projetos e construir minha trajetória profissional na área de Tecnologia da Informação.
+Meu objetivo é aprimorar minhas habilidades técnicas, desenvolver projetos práticos e construir minha trajetória profissional na área de tecnologia.
 
-##  Tecnologias e Ferramentas
+## Tecnologias e ferramentas
 
-- **Linguagens:** C, HTML e CSS
-- **Ferramentas:** Git, GitHub e Visual Studio Code
-- **Conhecimentos em desenvolvimento:** Lógica de programação e desenvolvimento web
+- Linguagens: C, Python, HTML e CSS (conforme seus conhecimentos).
+- Ferramentas: Git, GitHub e Visual Studio Code.
+- Conhecimentos: Lógica de programação, algoritmos e estruturas de dados.
 
-## Projetos
+##  Projetos em destaque
 
-- **Programa em C — Matrizes e funções** — Descrição do objetivo, das funcionalidades e das tecnologias utilizadas.
-- **[Nome do segundo projeto]** — Breve apresentação da solução desenvolvida e dos conhecimentos aplicados.
+- Aplicação prática de Bubble Sort e Quick Sort.
+- Projetos acadêmicos de programação.
+- Exercícios de lógica de programação.
 
-##  Contato
+## Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/julia-rodrigues-186721327/skills/edit/forms/new/
-- **E-mail:** juliarodriguesbezerra02@gmail.com
+- LinkedIn: https://www.linkedin.com/in/julia-rodrigues-186721327/
+- E-mail: juliarodriguesbezerra02@gmail.com
 
 ---
 
-*Em constante aprendizado e evolução na área de tecnologia.*
+⭐ Obrigada por visitar meu perfil!
